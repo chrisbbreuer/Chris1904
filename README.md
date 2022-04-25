@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chris1904
+- 👀 I’m interested in democratizing file storage & transfer with an emphasis on media delivery
+- 🌱 I’m currently working on a bunch of web2 & web3 open source technologies
+- 💞️ I’m looking to collaborate on web2 & web3 developer tooling
+- 📫 Find me on Twitter & Discord
